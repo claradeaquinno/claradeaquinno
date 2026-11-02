@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Clara de Aquino — Engenharia de Computação, Game Dev e Design" />
+  <img src="https://raw.githubusercontent.com/claradeaquinno/claradeaquinno/main/banner.svg?v=2" width="100%" alt="Clara de Aquino — Engenharia de Computação, Game Dev e Design" />
 </p>
 
 <p align="center">
