@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0C,55:0F5C57,100:8CC63F&height=200&text=CLARA%20DE%20AQUINO&fontColor=E7EEE9&fontSize=54&fontAlignY=42&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Desenvolvimento%20de%20Jogos%20%E2%80%A2%20Design&descSize=17&descAlignY=68" width="100%" alt="Clara de Aquino — Engenharia de Computação, Desenvolvimento de Jogos e Design" />
+  <img src="./banner.svg" width="100%" alt="Clara de Aquino — Engenharia de Computação, Game Dev e Design" />
 </p>
 
 <p align="center">
