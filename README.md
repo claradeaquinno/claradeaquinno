@@ -1,39 +1,41 @@
-<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:140B2E,55:3B1F78,100:7F5AF0&height=190&text=Clara%20de%20Aquino&fontColor=FFFFFF&fontSize=50&fontAlignY=42&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%20%7C%20%20Realidade%20Virtual%20%20%7C%20%20Design&descSize=17&descAlignY=68&descAlign=50" width="100%" alt="Clara de Aquino" />
-</p>
-
-<!-- DIGITAÇÃO ANIMADA -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=Realidade+Virtual+aplicada+%C3%A0+reabilita%C3%A7%C3%A3o+motora;Desenvolvedora+de+jogos+e+aplica%C3%A7%C3%B5es+interativas;Designer+gr%C3%A1fica+e+identidade+visual;Pesquisadora+em+tecnologia+e+inova%C3%A7%C3%A3o" alt="Áreas de atuação" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0C,55:0F5C57,100:8CC63F&height=200&text=CLARA%20DE%20AQUINO&fontColor=E7EEE9&fontSize=54&fontAlignY=42&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Desenvolvimento%20de%20Jogos%20%E2%80%A2%20Design&descSize=17&descAlignY=68" width="100%" alt="Clara de Aquino — Engenharia de Computação, Desenvolvimento de Jogos e Design" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/claradeaquino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/claradeaquinno/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/Realidade_Virtual-0F1512?style=for-the-badge" alt="Realidade Virtual" />
+  <img src="https://img.shields.io/badge/Desenvolvimento_de_Software-0F1512?style=for-the-badge" alt="Desenvolvimento de Software" />
+  <img src="https://img.shields.io/badge/Tecnologia-0F1512?style=for-the-badge" alt="Tecnologia" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/claradeaquino/"><img src="https://img.shields.io/badge/LinkedIn-0F5C57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/claradeaquinno/"><img src="https://img.shields.io/badge/Instagram-0F5C57?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-## Sobre mim
+### `01` &nbsp;SOBRE MIM
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-**Tecnologia**
+**TECNOLOGIA**
+
 - Graduanda em Engenharia de Computação
-- Soluções em **Realidade Virtual** para reabilitação motora
+- Desenvolvimento de software, aplicações mobile e web
 - Jogos e aplicações interativas
-- Aplicações mobile e web
+- Realidade Virtual aplicada à reabilitação motora
 
 </td>
     <td width="50%" valign="top">
 
-**Pesquisa & Design**
-- Pesquisadora em tecnologia e inovação (IC e P&D)
-- Autora e coautora de trabalhos científicos
-- Designer gráfica e criadora de identidades visuais
+**PESQUISA E DESIGN**
+
+- Pesquisa e inovação em tecnologia (IC e P&D)
+- Produção científica: autora e coautora de artigos
+- Design gráfico, identidade visual e interfaces
 - Voluntária em projetos de design e impacto social
 
 </td>
@@ -42,61 +44,107 @@
 
 ---
 
-## Tecnologias
+### `02` &nbsp;TECNOLOGIAS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,unity,figma,ps,ai,git,vscode&perline=9" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,unity,figma,ps,ai,git,vscode&perline=9&theme=dark" alt="C#, C++, Python, Unity, Figma, Photoshop, Illustrator, Git, VS Code" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Meta_SDK-0F1512?style=flat-square&logo=meta&logoColor=8CC63F" alt="Meta SDK" />
 </p>
 
 ---
 
-## Artigos publicados
+### `03` &nbsp;ARTIGOS PUBLICADOS
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/COTB-2026-7F5AF0?style=flat-square" alt="COTB 2026" /><br/>
-      <b>Princípios de Usabilidade e Gamificação no Design de Exergames</b><br/>
-      <sub>Proposta do Jogo Terapêutico <i>Toque os Alvos</i> · 17º Computer on the Beach</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/COTB-2026-7F5AF0?style=flat-square" alt="COTB 2026" /><br/>
-      <b>Dispositivo Vestível Baseado em Edge AI para Fisioterapia</b><br/>
-      <sub>Avaliação objetiva em sessões de fisioterapia · 17º Computer on the Beach</sub>
+    <td>
+      <img src="https://img.shields.io/badge/COTB-2026-0F5C57?style=flat-square&labelColor=0F1512" alt="COTB 2026" />
+      <br/><b>Princípios de Usabilidade e Gamificação no Design de Exergames: Proposta do Jogo Terapêutico Toque os Alvos</b>
+      <br/><sub>17º Computer on the Beach</sub>
+      <br/>Aplicação de princípios de usabilidade e gamificação no design do exergame terapêutico Toque os Alvos.
+      <br/><a href="#"><img src="https://img.shields.io/badge/Acessar_trabalho-%E2%86%97-8CC63F?style=flat-square&labelColor=0F1512" alt="Acessar trabalho" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/COTB-2026-7F5AF0?style=flat-square" alt="COTB 2026" /><br/>
-      <b>Fisioterapia em RV</b><br/>
-      <sub>Design de jogo e análise de movimento com Unity e Meta SDK · 17º Computer on the Beach</sub>
+    <td>
+      <img src="https://img.shields.io/badge/COTB-2026-0F5C57?style=flat-square&labelColor=0F1512" alt="COTB 2026" />
+      <br/><b>Proposta de Desenvolvimento de Dispositivo Vestível Baseado em Edge AI para Avaliação Objetiva em Sessões de Fisioterapia</b>
+      <br/><sub>17º Computer on the Beach</sub>
+      <br/>Proposta de dispositivo vestível com Edge AI para avaliação objetiva em sessões de fisioterapia.
+      <br/><a href="#"><img src="https://img.shields.io/badge/Acessar_trabalho-%E2%86%97-8CC63F?style=flat-square&labelColor=0F1512" alt="Acessar trabalho" /></a>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/GameZone-3B1F78?style=flat-square" alt="GameZone" /><br/>
-      <b>Comunica</b><br/>
-      <sub>App de comunicação alternativa e aumentativa com acessibilidade e gamificação · I Seminário de Gamificação da Amazônia</sub>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/COTB-2026-0F5C57?style=flat-square&labelColor=0F1512" alt="COTB 2026" />
+      <br/><b>Fisioterapia em RV: Design de Jogo e Análise de Movimento com Unity e Meta SDK</b>
+      <br/><sub>17º Computer on the Beach</sub>
+      <br/>Design de jogo e análise de movimento em Realidade Virtual para fisioterapia, com Unity e Meta SDK.
+      <br/><a href="#"><img src="https://img.shields.io/badge/Acessar_trabalho-%E2%86%97-8CC63F?style=flat-square&labelColor=0F1512" alt="Acessar trabalho" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/GameZone-0F5C57?style=flat-square" alt="GameZone" />
+      <br/><b>Comunica: protótipo de aplicativo de comunicação alternativa e aumentativa com recursos de acessibilidade e gamificação</b>
+      <br/><sub>I Seminário de Gamificação da Amazônia (GameZone)</sub>
+      <br/>Protótipo de aplicativo de comunicação alternativa e aumentativa com acessibilidade e gamificação.
+      <br/><a href="#"><img src="https://img.shields.io/badge/Acessar_trabalho-%E2%86%97-8CC63F?style=flat-square&labelColor=0F1512" alt="Acessar trabalho" /></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Projeto em destaque
+### `04` &nbsp;PROJETOS EM DESTAQUE
 
 <table>
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <h3>ReabilitaVR</h3>
-      Sistema de fisioterapia em Realidade Virtual desenvolvido no <b>PIBIC</b>, com jogos terapêuticos e análise de movimento.<br/><br/>
-      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-      <img src="https://img.shields.io/badge/Meta%20SDK-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Meta SDK" />
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/PIBIC-7F5AF0?style=flat-square" alt="PIBIC" />
+      Sistema de fisioterapia em Realidade Virtual desenvolvido no PIBIC, com jogos terapêuticos e análise de movimento.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Unity-0F1512?style=flat-square&logo=unity&logoColor=8CC63F" alt="Unity" />
+      <img src="https://img.shields.io/badge/Meta_SDK-0F1512?style=flat-square&logo=meta&logoColor=8CC63F" alt="Meta SDK" />
+      <img src="https://img.shields.io/badge/PIBIC-0F5C57?style=flat-square" alt="PIBIC" />
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_projeto-%E2%86%97-8CC63F?style=for-the-badge&labelColor=0F1512" alt="Ver projeto" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Comunica</h3>
+      Protótipo de aplicativo de comunicação alternativa e aumentativa com recursos de acessibilidade e gamificação.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Aplicativo-0F1512?style=flat-square" alt="Aplicativo" />
+      <img src="https://img.shields.io/badge/Acessibilidade-0F1512?style=flat-square" alt="Acessibilidade" />
+      <img src="https://img.shields.io/badge/Gamifica%C3%A7%C3%A3o-0F5C57?style=flat-square" alt="Gamificação" />
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_projeto-%E2%86%97-8CC63F?style=for-the-badge&labelColor=0F1512" alt="Ver projeto" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Amazônia IA</h3>
+      Projeto de Inteligência Artificial. Descrição completa em breve.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-0F5C57?style=flat-square" alt="Inteligência Artificial" />
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_projeto-%E2%86%97-8CC63F?style=for-the-badge&labelColor=0F1512" alt="Ver projeto" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Toque os Alvos</h3>
+      Jogo terapêutico (exergame) projetado com princípios de usabilidade e gamificação.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Exergame-0F1512?style=flat-square" alt="Exergame" />
+      <img src="https://img.shields.io/badge/Usabilidade-0F1512?style=flat-square" alt="Usabilidade" />
+      <img src="https://img.shields.io/badge/Gamifica%C3%A7%C3%A3o-0F5C57?style=flat-square" alt="Gamificação" />
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_projeto-%E2%86%97-8CC63F?style=for-the-badge&labelColor=0F1512" alt="Ver projeto" /></a>
     </td>
   </tr>
 </table>
 
-<!-- RODAPÉ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:140B2E,55:3B1F78,100:7F5AF0&height=6" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0C,55:0F5C57,100:8CC63F&height=4" width="100%" alt="" />
 </p>
