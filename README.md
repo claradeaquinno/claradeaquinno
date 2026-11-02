@@ -17,7 +17,9 @@
 
 ### SOBRE MIM
 
-<table>
+<div align="center">
+
+<table align="center">
   <tr>
     <td width="50%" valign="top">
 
@@ -36,11 +38,13 @@ Realidade Virtual aplicada à reabilitação motora<br/>
 Pesquisa e inovação em tecnologia (IC e P&D)<br/>
 Produção científica: autora e coautora de artigos<br/>
 Design gráfico, identidade visual e interfaces<br/>
-Voluntária em projetos de design e impacto social<br/>
+Voluntária em projetos de impacto social<br/>
 
 </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -134,5 +138,5 @@ Voluntária em projetos de design e impacto social<br/>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0C,55:0F5C57,100:8CC63F&height=4" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/claradeaquinno/claradeaquinno/main/rodape.svg?v=1" width="100%" alt="Personagem correndo com um notebook" />
 </p>
