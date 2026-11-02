@@ -1,55 +1,102 @@
-<!--
-  README de perfil — Clara de Aquino
-  Os visuais ficam em ./assets. Para trocar um link, edite o href do <a> correspondente.
-  Links marcados com "#" ainda precisam ser preenchidos.
--->
-
+<!-- BANNER -->
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Clara de Aquino — Engenharia de Computação, Desenvolvimento de Jogos e Design" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:140B2E,55:3B1F78,100:7F5AF0&height=190&text=Clara%20de%20Aquino&fontColor=FFFFFF&fontSize=50&fontAlignY=42&desc=Engenharia%20de%20Computa%C3%A7%C3%A3o%20%20%7C%20%20Realidade%20Virtual%20%20%7C%20%20Design&descSize=17&descAlignY=68&descAlign=50" width="100%" alt="Clara de Aquino" />
+</p>
+
+<!-- DIGITAÇÃO ANIMADA -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=900&color=7F5AF0&center=true&vCenter=true&width=640&lines=Realidade+Virtual+aplicada+%C3%A0+reabilita%C3%A7%C3%A3o+motora;Desenvolvedora+de+jogos+e+aplica%C3%A7%C3%B5es+interativas;Designer+gr%C3%A1fica+e+identidade+visual;Pesquisadora+em+tecnologia+e+inova%C3%A7%C3%A3o" alt="Áreas de atuação" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/claradeaquino/"><img src="./assets/contato-linkedin.svg" height="56" alt="LinkedIn — in/claradeaquino" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/claradeaquinno/"><img src="./assets/contato-instagram.svg" height="56" alt="Instagram — @claradeaquinno" /></a>
+  <a href="https://www.linkedin.com/in/claradeaquino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/claradeaquinno/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<br/>
+---
 
-<img src="./assets/s-sobre.svg" width="100%" alt="01 — Sobre mim" />
+## Sobre mim
 
-<img src="./assets/sobre.svg" width="100%" alt="Tecnologia: Engenharia de Computação, desenvolvimento de software, aplicações mobile e web, jogos e aplicações interativas, Realidade Virtual aplicada à reabilitação motora. Pesquisa e Design: pesquisa e inovação (IC e P&D), produção científica, design gráfico, identidade visual e interfaces, projetos de impacto social." />
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<br/><br/>
+**Tecnologia**
+- Graduanda em Engenharia de Computação
+- Soluções em **Realidade Virtual** para reabilitação motora
+- Jogos e aplicações interativas
+- Aplicações mobile e web
 
-<img src="./assets/s-tecnologias.svg" width="100%" alt="02 — Tecnologias" />
+</td>
+    <td width="50%" valign="top">
 
-<img src="./assets/tecnologias.svg" width="100%" alt="C#, C++, Python, Unity, Meta SDK, Figma, Photoshop, Illustrator, Git, VS Code" />
+**Pesquisa & Design**
+- Pesquisadora em tecnologia e inovação (IC e P&D)
+- Autora e coautora de trabalhos científicos
+- Designer gráfica e criadora de identidades visuais
+- Voluntária em projetos de design e impacto social
 
-<br/><br/>
+</td>
+  </tr>
+</table>
 
-<img src="./assets/s-artigos.svg" width="100%" alt="03 — Artigos publicados" />
+---
 
-<a href="#"><img src="./assets/artigo-1.svg" width="100%" alt="Princípios de Usabilidade e Gamificação no Design de Exergames: Proposta do Jogo Terapêutico Toque os Alvos — 17º Computer on the Beach (COTB 2026)" /></a>
+## Tecnologias
 
-<a href="#"><img src="./assets/artigo-2.svg" width="100%" alt="Proposta de Desenvolvimento de Dispositivo Vestível Baseado em Edge AI para Avaliação Objetiva em Sessões de Fisioterapia — 17º Computer on the Beach (COTB 2026)" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,unity,figma,ps,ai,git,vscode&perline=9" alt="Tecnologias" />
+</p>
 
-<a href="#"><img src="./assets/artigo-3.svg" width="100%" alt="Fisioterapia em RV: Design de Jogo e Análise de Movimento com Unity e Meta SDK — 17º Computer on the Beach (COTB 2026)" /></a>
+---
 
-<a href="#"><img src="./assets/artigo-4.svg" width="100%" alt="Comunica: protótipo de aplicativo de comunicação alternativa e aumentativa com recursos de acessibilidade e gamificação — I Seminário de Gamificação da Amazônia (GameZone)" /></a>
+## Artigos publicados
 
-<br/><br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/COTB-2026-7F5AF0?style=flat-square" alt="COTB 2026" /><br/>
+      <b>Princípios de Usabilidade e Gamificação no Design de Exergames</b><br/>
+      <sub>Proposta do Jogo Terapêutico <i>Toque os Alvos</i> · 17º Computer on the Beach</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/COTB-2026-7F5AF0?style=flat-square" alt="COTB 2026" /><br/>
+      <b>Dispositivo Vestível Baseado em Edge AI para Fisioterapia</b><br/>
+      <sub>Avaliação objetiva em sessões de fisioterapia · 17º Computer on the Beach</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/COTB-2026-7F5AF0?style=flat-square" alt="COTB 2026" /><br/>
+      <b>Fisioterapia em RV</b><br/>
+      <sub>Design de jogo e análise de movimento com Unity e Meta SDK · 17º Computer on the Beach</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/GameZone-3B1F78?style=flat-square" alt="GameZone" /><br/>
+      <b>Comunica</b><br/>
+      <sub>App de comunicação alternativa e aumentativa com acessibilidade e gamificação · I Seminário de Gamificação da Amazônia</sub>
+    </td>
+  </tr>
+</table>
 
-<img src="./assets/s-projetos.svg" width="100%" alt="04 — Projetos em destaque" />
+---
 
-<a href="#"><img src="./assets/projeto-reabilitavr.svg" width="100%" alt="ReabilitaVR — sistema de fisioterapia em Realidade Virtual (PIBIC). Unity, Meta SDK." /></a>
+## Projeto em destaque
 
-<a href="#"><img src="./assets/projeto-comunica.svg" width="100%" alt="Comunica — protótipo de aplicativo de comunicação alternativa e aumentativa com acessibilidade e gamificação." /></a>
+<table>
+  <tr>
+    <td>
+      <h3>ReabilitaVR</h3>
+      Sistema de fisioterapia em Realidade Virtual desenvolvido no <b>PIBIC</b>, com jogos terapêuticos e análise de movimento.<br/><br/>
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/Meta%20SDK-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Meta SDK" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/PIBIC-7F5AF0?style=flat-square" alt="PIBIC" />
+    </td>
+  </tr>
+</table>
 
-<a href="#"><img src="./assets/projeto-amazonia-ia.svg" width="100%" alt="Amazônia IA — projeto de Inteligência Artificial." /></a>
-
-<a href="#"><img src="./assets/projeto-toque-os-alvos.svg" width="100%" alt="Toque os Alvos — jogo terapêutico (exergame) com usabilidade e gamificação." /></a>
-
-<br/><br/>
-
-<img src="./assets/rodape.svg" width="100%" alt="" />
+<!-- RODAPÉ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:140B2E,55:3B1F78,100:7F5AF0&height=6" width="100%" alt="" />
+</p>
